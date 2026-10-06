@@ -97,23 +97,23 @@ The dashboard provides a one-page view of customer behavior and helps identify h
 
 ### Champions
 
-Provide loyalty rewards, exclusive offers, and personalized recommendations to retain high-value customers.
+Grant automated VIP status, early access to new collections, and  highly rewarded referral program to weaponize their word-of-mouth.
 
 ### Loyal Customers
 
-Use loyalty programs, early access offers, and personalized promotions to maintain their purchasing frequency.
+Implement cross-sell recommendations("Customers also bought..."), volume discounts, or tiered spend goals("Spend $75 for free shipping").
 
 ### At-Risk Customers
 
-Use targeted discounts, reminders, and personalized campaigns to encourage customers to return.
+Send automated "We Miss YOU" email sequences with high-incentive offers (e.g., 20% off or free product with purchase) to re-ignite their interest.
 
 ### Lost Customers
 
-Run reactivation campaigns with attractive incentives and monitor campaign effectiveness.
+Target them strictly through seasonal clearance sales, massive site-wide inventory events, or automated birthday discounts.
 
-### Potential Loyalists
+### New Customers
 
-Encourage repeat purchases through product recommendations, bundles, and personalized offers.
+Send a targeted welcome series containing brand education, user guides, and a time-sensitive coupon code for their order..
 
 ## Key Outcomes
 
