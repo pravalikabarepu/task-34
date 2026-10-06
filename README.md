@@ -35,7 +35,6 @@ Key fields include:
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn
 * Jupyter Notebook / VS Code
 * Power BI
 
